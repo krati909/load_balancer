@@ -1,0 +1,5 @@
+Number of workers=3
+Request pool size=10
+Stats directory=/path/to/stats/directory
+Average Delay in sec=0.5
+Failure percentage=10
